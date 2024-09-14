@@ -15,7 +15,9 @@ This is a Python script that captures and analyzes network packets using the Sca
 **Features**
 
 1.Real-time Packet Sniffing: Monitors and captures network packets on a given interface.
+
 2.Packet Processing: Each packet is processed and displayed with a summary using the Scapy library.
+
 3.Customizable Interface: The user can specify the network interface to sniff packets from.
 
 **Prerequisites**
